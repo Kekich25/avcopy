@@ -74,6 +74,11 @@
         padding-right: 16px;
     }
 }
+rigg {
+    float: right;
+    color: gray;
+    font-weight: 700;
+}
 
 .index-side-Ae0Dq {
     margin-right: 20px;
